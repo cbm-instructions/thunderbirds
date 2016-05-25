@@ -2,7 +2,7 @@
 
 # 1. Einleitung
                                                   POV
- ! Lisas Stimmung wird beim Betreten des Gebäudes gedrückt, weil sie sich nicht mit der Informatik identifizieren kann.
+ Lisas Stimmung wird beim Betreten des Gebäudes gedrückt, weil sie sich nicht mit der Informatik identifizieren kann.
  
 ---
 
