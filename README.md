@@ -42,7 +42,7 @@ Werkzeug
 * Teppichmesser
 * Zange
 * Schwarzes Isolierband
-* Feine Säge
+* Feine Handsäge
 * Stichsäge 
 * Kreissäge -> Werkstatt
 
