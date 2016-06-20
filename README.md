@@ -66,12 +66,12 @@ Liste mit benötigten Kenntnissen?
 
 # 4. Step-by-Step-Guide
 
-1.	Schritt: 
+1. Schritt: 
 Eine Holzspanplatte der Größe 50cm x 50cm dient als die Grundfläche für die Karte. Das Holz ist weiß. (Bild 1)
 
 ![Dicke Basis Holzplatte](/pictures/Bild_1.png)
 
-2.	Schritt: 
+2. Schritt: 
 Eine weitere dicke (2 cm) Holzplatte für den unteren Zuschnitt der Kontinente. An die zugeschnittenen Kontinente wird das LED Strip geklebt.
 
 3. Schritt: 
