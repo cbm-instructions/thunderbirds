@@ -66,6 +66,9 @@ Liste mit benötigten Kenntnissen?
 
 # 4. Step-by-Step-Guide
 
+![Hauptbild](/pictures/Hauptbild.gif)
+
+
 #### 1. Schritt: 
 Eine Holzspanplatte der Größe 50cm x 50cm dient als die Grundfläche für die Karte. Das Holz ist weiß. (Bild 1)
 
