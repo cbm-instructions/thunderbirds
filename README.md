@@ -180,15 +180,15 @@ Es werden 3 Plexiglas Platten (100cm x 7cm x 2mm) geschnitten. Diese müssen ans
 ### 21. Schritt:
 Ein Holzstab wird an zwei Ecken abgefeilt und in das Plexiglas Dreieck geschoben. (Bild 33-34)
 
-![Holzstab](/pictures/Bild_32.png)
-![Plexi_Holzstab](/pictures/Bild_33.png)
+![Holzstab](/pictures/Bild_33.png)
+![Plexi_Holzstab](/pictures/Bild_34.png)
 
 ### 22. Schritt:
 Zum Schluss werden die Kabel auf eine Platine (10cm x 10cm) gelötet.
 Die genaue Verlötung sieht man auf dem Schaltplan. (Bild 35-36)
 
-![Platine](/pictures/Bild_34.png)
-![Platine_löten](/pictures/Bild_35.png)
+![Platine](/pictures/Bild_35.png)
+![Platine_löten](/pictures/Bild_36.png)
 
 
 
