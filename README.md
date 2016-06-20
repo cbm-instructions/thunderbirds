@@ -190,6 +190,11 @@ Die genaue Verlötung sieht man auf dem Schaltplan. (Bild 35-36)
 ![Platine](/pictures/Bild_35.png)
 ![Platine_löten](/pictures/Bild_36.png)
 
+### 23. Schritt:
+Sollte keine Platine verwendet werden kann auch ein Board verwendet werden und nach folgendem Schaltplan gesteckt werden.
+![Schaltplan Licht](/pictures/Thunderbirds_Schaltplan_Board.png)
+![Schaltplan Joystick](/pictures/Thunderbirds_Schaltplan_Joystick_Board.png)
+
 
 
 
