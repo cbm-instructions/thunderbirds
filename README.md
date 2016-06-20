@@ -67,4 +67,4 @@ Liste mit benötigten Kenntnissen?
 # 4. Step-by-Step-Guide
 
 Hallo Welt
-![jekyll-uno - free Jekyll theme](/Bild_1.png)
+![jekyll-uno - free Jekyll theme](/Users/romanbucnev/Github/pictures/Bild_1.png)
