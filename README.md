@@ -65,3 +65,6 @@ Liste mit benötigten Kenntnissen?
 ---
 
 # 4. Step-by-Step-Guide
+
+Hallo Welt
+![jekyll-uno - free Jekyll theme](/Bild_1.png)
