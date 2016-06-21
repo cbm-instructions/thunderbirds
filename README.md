@@ -1,5 +1,8 @@
 #Thunderbirds und die Internetversorgung aus dem All
 
+![Startbild](/pictures/Startbild.gif)
+
+
 # 1. Einleitung
                                                   POV
  Lisas Stimmung wird beim Betreten des Gebäudes gedrückt, weil sie sich nicht mit der Informatik identifizieren kann.
@@ -65,8 +68,6 @@ Liste mit benötigten Kenntnissen?
 ---
 
 # 4. Step-by-Step-Guide
-
-![Startbild](/pictures/Startbild.gif)
 
 
 #### 1. Schritt: 
