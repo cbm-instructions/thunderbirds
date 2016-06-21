@@ -50,8 +50,8 @@ Die Unterteilung dieses Projekts erfolgte in 2 Phasen.
 #### Werkzeug
 * Lötkolben
 * Bohrmaschine
-   * Aufsätze: ??
-* Akkubohrer 
+   * Aufsätze: 10er und 4er Holzbohrer
+* Akkuschrauber
 * Schere
 * Teppichmesser
 * Zange
@@ -149,6 +149,7 @@ Kontinente mit der Spraydose schwarz matt lackieren.
 ### 12. Schritt:
 Die getrockneten Kontinente werden auf die befestigten Kontinente gelegt und es wird „zentral“ ein Loch, dass durch alle 3 Platten geht. Für die Bohrung wird eine Bohrmaschine mit einem Holz Bohraufsatz verwendet.
 
+![Bohraufsätze](/pictures/Bild_40.png)
 ![Gebohrtes Loch](/pictures/Bild_12.png)
 
 ### 13. Schritt:
