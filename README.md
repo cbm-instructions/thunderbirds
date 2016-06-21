@@ -65,12 +65,14 @@
 * Joystick kaufen
 
 #### Downloads
-1. Bibliothek PololuLedStrip herunterladen.
-2. IDE Arduino herunterladen.
-3. Schaltplan LED Strip.
-4. Schaltplan Joystick + Laser.
-5. Code für das LED Strip und die Weltkarte.
-6. Code für den Joystick und Laser.
+1. Bibliothek PololuLedStrip herunterladen. [Download]()
+2. IDE Arduino herunterladen. [Download]()
+3. Schaltplan LED Strip. [Download]()
+4. Schaltplan Joystick + Laser. [Download]()
+5. Code für das LED Strip und die Weltkarte. [Download]()
+6. Code für den Joystick und Laser. [Download]()
+
+[Download complete as zip]()
 
 #### Liste mit benötigten Kenntnissen?
 * Zur Programmierung wird nur die Arduino interne Programmiersprache verwendet. (C) 
