@@ -66,7 +66,7 @@ Liste mit benötigten Kenntnissen?
 
 # 4. Step-by-Step-Guide
 
-![Hauptbild](/pictures/Hauptbild.gif)
+![Startbild](/pictures/Startbild.gif)
 
 
 #### 1. Schritt: 
@@ -181,19 +181,29 @@ Es werden 3 Plexiglas Platten (100cm x 7cm x 2mm) geschnitten. Diese müssen ans
 ![Plexi_komplett](/pictures/Bild_32.png)
 
 ### 21. Schritt:
-Ein Holzstab wird an zwei Ecken abgefeilt und in das Plexiglas Dreieck geschoben. (Bild 33-34)
-
-![Holzstab](/pictures/Bild_33.png)
-![Plexi_Holzstab](/pictures/Bild_34.png)
+Das Zusammengeklebte Plexiglas wird mit schwarzem transparenten Spray lackiert.
+![Plexiglas schwarz](/pictures/Bild_37.png)
 
 ### 22. Schritt:
+Es wird ein Stück Holz an der Basis Holzplatte mit dem Kleber "kleben statt kleben" befestigt.
+![kleines Holz](/pictures/Bild_38.png)
+
+
+### 23. Schritt:
+Ein Holzstab wird an zwei Eckseiten abgefeilt, an das kleine Stück Holz mit zwei Schrauben befestigt und in das Plexiglas Dreieck geschoben. (Bild 33-34)
+
+![Holzstab](/pictures/Bild_33.png)
+![Holzstab geschraubt](/pictures/Bild_39.png)
+![Plexi_Holzstab](/pictures/Bild_34.png)
+
+### 24. Schritt:
 Zum Schluss werden die Kabel auf eine Platine (10cm x 10cm) gelötet.
 Die genaue Verlötung sieht man auf dem Schaltplan. (Bild 35-36)
 
 ![Platine](/pictures/Bild_35.png)
 ![Platine_löten](/pictures/Bild_36.png)
 
-### 23. Schritt:
+### 25. Schritt:
 Sollte keine Platine verwendet werden kann auch ein Board verwendet werden und nach folgendem Schaltplan gesteckt werden.
 ![Schaltplan Licht](/pictures/Thunderbirds_Schaltplan_Board.png)
 ![Schaltplan Joystick](/pictures/Thunderbirds_Schaltplan_Joystick_Board.png)
