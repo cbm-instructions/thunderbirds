@@ -12,7 +12,7 @@
 
 # 2. Material und Werkzeug
 
-Material (technisch)
+#### Material (technisch)
 * Arduino Uno (2)
 * Kabel (Anzahl)
 * Photoresistoren (6)
@@ -25,7 +25,7 @@ Material (technisch)
 * Lötplatine (10 cm x 10 cm)
 * Atari 2600 - Quickjoy SV 127 TopStar Joystick (1)
 
-Material
+#### Material
 * Spanplatte (100cm x 60cm x 2cm)
 * Holz (50cm x 50cm x2cm), ausgesägte Kontinente
 * Dünnes Holz (2qm), ausgesägte Kontinente
@@ -37,7 +37,7 @@ Material
 * Lasermodul [Conrad.de] (https://www.conrad.de/de/lasermodul-punkt-rot-1-mw-laserfuchs-lfd650-1-12-9x20-816476.html)
 * Schrauben (20)
 
-Werkzeug
+#### Werkzeug
 * Lötkolben
 * Bohrmaschine
    * Aufsätze: ??
@@ -183,18 +183,18 @@ Es werden 3 Plexiglas Platten (100cm x 7cm x 2mm) geschnitten. Diese müssen ans
 
 ### 21. Schritt:
 Das Zusammengeklebte Plexiglas wird mit schwarzem transparenten Spray lackiert.
-![Plexiglas schwarz](/pictures/Bild_37.jpg)
+![Plexiglas schwarz](/pictures/Bild_37.png)
 
 ### 22. Schritt:
 Es wird ein Stück Holz an der Basis Holzplatte mit dem Kleber "kleben statt kleben" befestigt.
-![kleines Holz](/pictures/Bild_38.jpg)
+![kleines Holz](/pictures/Bild_38.png)
 
 
 ### 23. Schritt:
 Ein Holzstab wird an zwei Eckseiten abgefeilt, an das kleine Stück Holz mit zwei Schrauben befestigt und in das Plexiglas Dreieck geschoben. (Bild 33-34)
 
 ![Holzstab](/pictures/Bild_33.png)
-![Holzstab geschraubt](/pictures/Bild_39.jpg)
+![Holzstab geschraubt](/pictures/Bild_39.png)
 ![Plexi_Holzstab](/pictures/Bild_34.png)
 
 ### 24. Schritt:
