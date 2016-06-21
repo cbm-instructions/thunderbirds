@@ -56,17 +56,46 @@
 ---
 
 # 3. Vorbereitung
-Was muss vor dem Start gemacht werden?
+
+#### Was muss vor dem Start gemacht werden?
 * Kauf der LED Strips
 * Holz besorgen
 * Kleber kaufen
 * Fehlendes Werkzeug organisieren
 * Joystick kaufen
 
-Liste mit benötigten Kenntnissen?
+#### Downloads
+1. Bibliothek PololuLedStrip herunterladen.
+2. IDE Arduino herunterladen.
+3. Schaltplan LED Strip.
+4. Schaltplan Joystick + Laser.
+5. Code für das LED Strip und die Weltkarte.
+6. Code für den Joystick und Laser.
+
+#### Liste mit benötigten Kenntnissen?
 * Zur Programmierung wird nur die Arduino interne Programmiersprache verwendet. (C) 
+* Umgang mit dem Lötkolben sind von Vorteil.
 
 ---
+
+### Install and Test
+
+1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
+2. Enter the folder: `cd jekyll-uno/`
+3. If you don't have bundler installed: `gem install bundler`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `jekyll serve`
+
+Access via: [http://localhost:4000/jekyll-uno](http://localhost:4000/jekyll-uno)
+
+---
+
+### Demo and Download
+
+[Demo](http://joshgerdes.com/jekyll-uno/)
+[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
+
+![jekyll-uno - free Jekyll theme](/screenshot.png)
 
 # 4. Step-by-Step-Guide
 
@@ -213,15 +242,10 @@ Sollte keine Platine verwendet werden kann auch ein Board verwendet werden und n
 ![Schaltplan Licht](/pictures/Thunderbirds_Schaltplan_Board.png)
 ![Schaltplan Joystick](/pictures/Thunderbirds_Schaltplan_Joystick_Board.png)
 
+---
 
-
-
-
-
-
-
-
-
-
+# 4. Ausblick
+* LED Strip in die Halterung einbauen, als Sternenhimmel.
+* Satellit mit einem 3D Drucker drucken lassen.
 
 
