@@ -3,20 +3,23 @@
 ![Startbild](/pictures/Startbild.gif)
 
 
-# 1. Einleitung
-                                                  POV
- Lisas Stimmung wird beim Betreten des Gebäudes gedrückt, weil sie sich nicht mit der Informatik identifizieren kann.
- 
----
 
-# 2. Projekt
+# 1. Projekt
 Ziel dieses Projektes war es Studierende, aus anderen Fakultäten von der Informatik und somit auch den dazugehörigen Studiengängen, zu überzeugen.
 Das Projekt hat 15 Wochen gedauert.
 Die Unterteilung dieses Projekts erfolgte in 2 Phasen.
  * Design Thinking 
  * Umsetzung der Idee
 
-# 2. Material und Werkzeug
+---
+ 
+# 2. Einleitung
+                                                  POV
+ Lisas Stimmung wird beim Betreten des Gebäudes gedrückt, weil sie sich nicht mit der Informatik identifizieren kann.
+ 
+---
+
+# 3. Material und Werkzeug
 
 #### Material (technisch)
 * Arduino Uno (2)
@@ -61,7 +64,7 @@ Die Unterteilung dieses Projekts erfolgte in 2 Phasen.
 
 ---
 
-# 3. Vorbereitung
+# 4. Vorbereitung
 
 #### Was muss vor dem Start gemacht werden?
 * Kauf der LED Strips
@@ -78,7 +81,7 @@ Die Unterteilung dieses Projekts erfolgte in 2 Phasen.
 5. Code für das LED Strip und die Weltkarte. [Download](https://github.com/cbm-instructions/thunderbirds/tree/master/src/Laser_Photoresistor_LED)
 6. Code für den Joystick und Laser. [Download](https://github.com/cbm-instructions/thunderbirds/tree/master/src/Joystick_Laser_Final)
 
-[Download complete as zip](https://github.com/cbm-instructions/thunderbirds.git)
+[kompletter Download als zip](https://github.com/cbm-instructions/thunderbirds.git)
 
 #### Liste mit benötigten Kenntnissen?
 * Zur Programmierung wird nur die Arduino interne Programmiersprache verwendet. (C) 
@@ -87,7 +90,7 @@ Die Unterteilung dieses Projekts erfolgte in 2 Phasen.
 ---
 
 
-# 4. Step-by-Step-Guide
+# 5. Step-by-Step-Guide
 
 
 #### 1. Schritt: 
@@ -234,7 +237,7 @@ Sollte keine Platine verwendet werden kann auch ein Board verwendet werden und n
 
 ---
 
-# 4. Ausblick
+# 6. Ausblick
 * LED Strip in die Halterung einbauen, als Sternenhimmel.
 * Satellit mit einem 3D Drucker drucken lassen.
 
