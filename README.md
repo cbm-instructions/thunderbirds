@@ -65,14 +65,14 @@
 * Joystick kaufen
 
 #### Downloads
-1. Bibliothek PololuLedStrip herunterladen. [Download]()
-2. IDE Arduino herunterladen. [Download]()
-3. Schaltplan LED Strip. [Download]()
-4. Schaltplan Joystick + Laser. [Download]()
-5. Code für das LED Strip und die Weltkarte. [Download]()
-6. Code für den Joystick und Laser. [Download]()
+1. Bibliothek PololuLedStrip herunterladen. [Download](https://github.com/cbm-instructions/thunderbirds/tree/master/libraries/PololuLedStrip)
+2. IDE Arduino herunterladen. [Download](https://www.arduino.cc/en/Main/Software)
+3. Schaltplan LED Strip. [Download](https://github.com/cbm-instructions/thunderbirds/blob/master/Schaltpläne/Thunderbirds_Schaltplan_Board.png)
+4. Schaltplan Joystick + Laser. [Download](https://github.com/cbm-instructions/thunderbirds/blob/master/Schaltpläne/Thunderbirds_Schaltplan_Joystick_Board.png)
+5. Code für das LED Strip und die Weltkarte. [Download](https://github.com/cbm-instructions/thunderbirds/tree/master/src/Laser_Photoresistor_LED)
+6. Code für den Joystick und Laser. [Download](https://github.com/cbm-instructions/thunderbirds/tree/master/src/Joystick_Laser_Final)
 
-[Download complete as zip]()
+[Download complete as zip](https://github.com/cbm-instructions/thunderbirds.git)
 
 #### Liste mit benötigten Kenntnissen?
 * Zur Programmierung wird nur die Arduino interne Programmiersprache verwendet. (C) 
