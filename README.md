@@ -182,18 +182,18 @@ Es werden 3 Plexiglas Platten (100cm x 7cm x 2mm) geschnitten. Diese müssen ans
 
 ### 21. Schritt:
 Das Zusammengeklebte Plexiglas wird mit schwarzem transparenten Spray lackiert.
-![Plexiglas schwarz](/pictures/Bild_37.png)
+![Plexiglas schwarz](/pictures/Bild_37.jpg)
 
 ### 22. Schritt:
 Es wird ein Stück Holz an der Basis Holzplatte mit dem Kleber "kleben statt kleben" befestigt.
-![kleines Holz](/pictures/Bild_38.png)
+![kleines Holz](/pictures/Bild_38.jpg)
 
 
 ### 23. Schritt:
 Ein Holzstab wird an zwei Eckseiten abgefeilt, an das kleine Stück Holz mit zwei Schrauben befestigt und in das Plexiglas Dreieck geschoben. (Bild 33-34)
 
 ![Holzstab](/pictures/Bild_33.png)
-![Holzstab geschraubt](/pictures/Bild_39.png)
+![Holzstab geschraubt](/pictures/Bild_39.jpg)
 ![Plexi_Holzstab](/pictures/Bild_34.png)
 
 ### 24. Schritt:
