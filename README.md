@@ -183,10 +183,12 @@ Es werden 3 Plexiglas Platten (100cm x 7cm x 2mm) geschnitten. Diese müssen ans
 
 ### 21. Schritt:
 Das Zusammengeklebte Plexiglas wird mit schwarzem transparenten Spray lackiert.
+
 ![Plexiglas schwarz](/pictures/Bild_37.png)
 
 ### 22. Schritt:
 Es wird ein Stück Holz an der Basis Holzplatte mit dem Kleber "kleben statt kleben" befestigt.
+
 ![kleines Holz](/pictures/Bild_38.png)
 
 
@@ -206,6 +208,7 @@ Die genaue Verlötung sieht man auf dem Schaltplan. (Bild 35-36)
 
 ### 25. Schritt:
 Sollte keine Platine verwendet werden kann auch ein Board verwendet werden und nach folgendem Schaltplan gesteckt werden.
+
 ![Schaltplan Licht](/pictures/Thunderbirds_Schaltplan_Board.png)
 ![Schaltplan Joystick](/pictures/Thunderbirds_Schaltplan_Joystick_Board.png)
 
