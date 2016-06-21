@@ -8,7 +8,13 @@
  Lisas Stimmung wird beim Betreten des Gebäudes gedrückt, weil sie sich nicht mit der Informatik identifizieren kann.
  
 ---
- 
+
+# 2. Projekt
+Ziel dieses Projektes war es Studierende, aus anderen Fakultäten von der Informatik und somit auch den dazugehörigen Studiengängen, zu überzeugen.
+Das Projekt hat 15 Wochen gedauert.
+Die Unterteilung dieses Projekts erfolgte in 2 Phasen.
+ * Design Thinking 
+ * Umsetzung der Idee
 
 # 2. Material und Werkzeug
 
