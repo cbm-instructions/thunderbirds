@@ -35,7 +35,8 @@
 * Durchsichtiges Plexiglas (50cm x 125cm x 2mm)
 * Lackspray schwarz matt
 * Lasermodul [Conrad.de] (https://www.conrad.de/de/lasermodul-punkt-rot-1-mw-laserfuchs-lfd650-1-12-9x20-816476.html)
-* Schrauben (20)
+* Schrauben (22)
+* Auto-K Transparent-Spray Special schwarz (Art.-Nr. 33117, 2 Dosen)
 
 #### Werkzeug
 * Lötkolben
@@ -49,7 +50,7 @@
 * Schwarzes Isolierband
 * Feine Säge
 * Stichsäge 
-* Kreissäge -> Werkstatt
+* Kreissäge -> Werkstatt an der HS
 * 3. Hand zum Löten
 
 ---
@@ -71,7 +72,7 @@ Liste mit benötigten Kenntnissen?
 
 
 #### 1. Schritt: 
-Eine Holzspanplatte der Größe 50cm x 50cm dient als die Grundfläche für die Karte. Das Holz ist weiß. (Bild 1)
+Eine Holzspanplatte der Größe 50cm x 50cm dient als die Grundfläche für die Karte. Das Holz ist weiß.
 
 ![Dicke Basis Holzplatte](/pictures/Bild_1.png)
 
@@ -79,12 +80,12 @@ Eine Holzspanplatte der Größe 50cm x 50cm dient als die Grundfläche für die 
 Eine weitere dicke (2 cm) Holzplatte für den unteren Zuschnitt der Kontinente. An die zugeschnittenen Kontinente wird das LED Strip geklet
 
 ### 3. Schritt: 
-Dünnes Holz (Rückenwand eines Schranks) für das detaillierte Zuschneiden der Kontinente. (Bild 2)
+Dünnes Holz (Rückenwand eines Schranks) für das detaillierte Zuschneiden der Kontinente.
 
 ![Dünne Holzplatte](/pictures/Bild_2.png)
 
 ### 4. Schritt:
-Die Kontinente werden auf die Spanplatte unter Verwendung einer Vorlage (Bild 3) gezeichnet. (Bild 4)
+Die Kontinente werden auf die Spanplatte unter Verwendung einer Vorlage gezeichnet.
 
 ![Vorlage](/pictures/Bild_3.png)
 ![Dicke Holzplatte mit Konturen](/pictures/Bild_4.png)
@@ -93,7 +94,7 @@ Die Kontinente werden auf die Spanplatte unter Verwendung einer Vorlage (Bild 3)
 Die vorgezeichneten Kontinente werden anschließend mit der Bandsäge und Stichsäge ausgeschnitten.
 
 ### 6. Schritt:
-Die ausgeschnittenen Kontinente werden mit Hilfe einer Feile verwendet. (Bild 5 und Bild 6)
+Die ausgeschnittenen Kontinente werden mit Hilfe einer Feile verwendet.
 Tipp: Die Kontinente müssen nicht detailliert ausgeschnitten werden. 
 
 ![Ausgeschnittene Grund Kontinente](/pictures/Bild_5.png)
@@ -103,7 +104,7 @@ Tipp: Die Kontinente müssen nicht detailliert ausgeschnitten werden.
 Die zugeschnittenen Kontinente werden auf die Basis Spanplatte (100cm x 60cm x 2cm) gelegt. 
 
 ### 8. Schritt:
-Die Konturen der zugeschnittenen Kontinente werden mit einem Stift gezeichnet damit eine Befestigung erfolgen kann. (Bild 7)
+Die Konturen der zugeschnittenen Kontinente werden mit einem Stift gezeichnet damit eine Befestigung erfolgen kann.
 
 ![Kontinente auf der Basis Holzplatte](/pictures/Bild_7.png)
 
@@ -114,33 +115,33 @@ Die Kontinente werden nun mit Schrauben von hinten befestigt. Der Akkubohrer rei
 
 ### 10. Schritt:
 Erneut werden die Kontinente unter Verwendung der Vorlage auf das dünne Holz gezeichnet. Mit Hilfe einer Stichsäge werden die Kontinente ausgeschnitten.
-Achtung: Konturen der Kontinente müssen sehr detailliert sein. (Bild 9)
+Achtung: Konturen der Kontinente müssen sehr detailliert sein.
 
 ![Konturen auf dem dünnen Holz](/pictures/Bild_9.png)
 
 ### 11. Schritt:
-Kontinente mit der Spraydose schwarz matt lackieren. (Bild 10)
+Kontinente mit der Spraydose schwarz matt lackieren.
 
 ![Lackiertes dünnes Holz](/pictures/Bild_10.png)
 
 ### 12. Schritt:
-Die getrockneten Kontinente werden auf die befestigten Kontinente gelegt und es wird „zentral“ ein Loch, dass durch alle 3 Platten geht. Für die Bohrung wird eine Bohrmaschine mit einem Holz Bohraufsatz verwendet. (Bild 11-12)
+Die getrockneten Kontinente werden auf die befestigten Kontinente gelegt und es wird „zentral“ ein Loch, dass durch alle 3 Platten geht. Für die Bohrung wird eine Bohrmaschine mit einem Holz Bohraufsatz verwendet.
 
 ![Gebohrtes Loch](/pictures/Bild_12.png)
 
 ### 13. Schritt:
-Nun kann das LED Strip an den Kontinenten befestigt werden. Das LED Strip wird an den markierten Stellen geschnitten und gelötet. Das LED Strip wird mit Sekundenkleber befestigt. (Bild 13 und Bild 14)
+Nun kann das LED Strip an den Kontinenten befestigt werden. Das LED Strip wird an den markierten Stellen geschnitten und gelötet. Das LED Strip wird mit Sekundenkleber befestigt.
 
 ![LED kleben](/pictures/Bild_13.png)
 ![LED Weg](/pictures/Bild_14.png)
 
 ### 14. Schritt:
-Die dünnen schwarzen Kontinente werden mit dem Kleber („kleben statt bohren“) auf die Kontinente geklebt. (Bild 15)
+Die dünnen schwarzen Kontinente werden mit dem Kleber („kleben statt bohren“) auf die Kontinente geklebt.
 
 ![Dünne Kontinente geklebt](/pictures/Bild_15.png)
 
 ### 15. Schritt:
-Die Cremetuben werden einmal bis zum Deckel geschnitten. Anschließend mit dem Kleber „kleben statt bohren“ bestrichen und von hinten in die Löcher der Kontinente geschoben und mit einem Edding von vorne ausgebreitet. (Bild 16-18)
+Die Cremetuben werden einmal bis zum Deckel geschnitten. Anschließend mit dem Kleber „kleben statt bohren“ bestrichen und von hinten in die Löcher der Kontinente geschoben und mit einem Edding von vorne ausgebreitet.
 Tipp: Sollte die Tube nicht perfekt kleben, einfach nochmal mit Sekundenkleber nachhelfen und erneut mit dem Edding ausgebreitet.
 
 ![Tube](/pictures/Bild_16.png)
@@ -148,19 +149,19 @@ Tipp: Sollte die Tube nicht perfekt kleben, einfach nochmal mit Sekundenkleber n
 ![Tube Schnitt](/pictures/Bild_18.png)
 
 ### 16. Schritt:
-Um die kleinen Inseln befestigen zu können wurden Schrauben in die Basis Holzplatte geschraubt und mit dem Kleber „kleben statt bohren“ festgeklebt. (Bild 19-20)
+Um die kleinen Inseln befestigen zu können wurden Schrauben in die Basis Holzplatte geschraubt und mit dem Kleber „kleben statt bohren“ festgeklebt.
 
 ![Insel](/pictures/Bild_19.png)
 ![Insel Seite](pictures/Bild_20.png)
 
 ### 17. Schritt:
-An die Photoresistoren werden Kabel dran gelötet und eins der Beinchen des Photoresistors wird mit Isolierband abgeklebt. Anschließend werden die Photoresistoren in die Cremetuben gesteckt. (Bild 21-22)
+An die Photoresistoren werden Kabel dran gelötet und eins der Beinchen des Photoresistors wird mit Isolierband abgeklebt. Anschließend werden die Photoresistoren in die Cremetuben gesteckt.
 
 ![Photoresistor](/pictures/Bild_21.png)
 ![Isolierung](/pictures/Bild_22.png)
 
 ### 18. Schritt:
-Als nächstes wird der Satellit gebaut. Dafür wird erneut das dünne Holz verwendet. Es werden 5 Quadrate mit den Maßen 8cm x 8cm zugeschnitten. (Bild 23-26)
+Als nächstes wird der Satellit gebaut. Dafür wird erneut das dünne Holz verwendet. Es werden 5 Quadrate mit den Maßen 8cm x 8cm zugeschnitten.
 
 ![Satellit_oben](/pictures/Bild_23.png)
 ![Satellit_unten](/pictures/Bild_24.png)
@@ -168,14 +169,14 @@ Als nächstes wird der Satellit gebaut. Dafür wird erneut das dünne Holz verwe
 ![Satellit_komplett](/pictures/Bild_26.png)
 
 ### 19. Schritt:
-Es wird das Glas einer Taschenlampe auf das erste Servo geklebt. Darauf kommt das zweite Servo. Zum Schluss wird die Laseriode auf das zweite Servo geklebt. (Bild 27-29)
+Es wird das Glas einer Taschenlampe auf das erste Servo geklebt. Darauf kommt das zweite Servo. Zum Schluss wird die Laseriode auf das zweite Servo geklebt.
 
 ![Servo_unten](/pictures/Bild_27.png)
 ![Servo_seite](/pictures/Bild_28.png)
 ![Servo_laser](/pictures/Bild_29.png)
 
 ### 20. Schritt:
-Es werden 3 Plexiglas Platten (100cm x 7cm x 2mm) geschnitten. Diese müssen anschließend mit Heißkleber zusammen geklebt werden. (Bild 30-32)
+Es werden 3 Plexiglas Platten (100cm x 7cm x 2mm) geschnitten. Diese müssen anschließend mit Heißkleber zusammen geklebt werden.
 
 ![Plexi](/pictures/Bild_30.png)
 ![Plexi_kleben](/pictures/Bild_31.png)
@@ -193,7 +194,7 @@ Es wird ein Stück Holz an der Basis Holzplatte mit dem Kleber "kleben statt kle
 
 
 ### 23. Schritt:
-Ein Holzstab wird an zwei Eckseiten abgefeilt, an das kleine Stück Holz mit zwei Schrauben befestigt und in das Plexiglas Dreieck geschoben. (Bild 33-34)
+Ein Holzstab wird an zwei Eckseiten abgefeilt, an das kleine Stück Holz mit zwei Schrauben befestigt und in das Plexiglas Dreieck geschoben.
 
 ![Holzstab](/pictures/Bild_33.png)
 ![Holzstab geschraubt](/pictures/Bild_39.png)
@@ -201,7 +202,7 @@ Ein Holzstab wird an zwei Eckseiten abgefeilt, an das kleine Stück Holz mit zwe
 
 ### 24. Schritt:
 Zum Schluss werden die Kabel auf eine Platine (10cm x 10cm) gelötet.
-Die genaue Verlötung sieht man auf dem Schaltplan. (Bild 35-36)
+Die genaue Verlötung sieht man auf dem Schaltplan.
 
 ![Platine](/pictures/Bild_35.png)
 ![Platine_löten](/pictures/Bild_36.png)
