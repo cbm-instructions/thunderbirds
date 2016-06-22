@@ -224,6 +224,12 @@ Ein Holzstab wird an zwei Eckseiten abgefeilt, an das kleine Stück Holz mit zwe
 ![Plexi_Holzstab](/pictures/Bild_34.png)
 
 ### 24. Schritt:
+Die Kabel werden durch das Plexiglas Dreieck gezogen und der Satellit mit dem Kleber "kleben statt bohren" an der Spitze befestigt.
+
+![Satellit und Kabel](/pictures/Bild_41.png)
+
+
+### 24. Schritt:
 Zum Schluss werden die Kabel auf eine Platine (10cm x 10cm) gelötet.
 Die genaue Verlötung sieht man auf dem Schaltplan.
 
